@@ -1,6 +1,6 @@
 # bokeh-application-for-Feature-Selection
 Feature selection using Mutual Information
-use "bokeh serve --show FSapp" from the command prompt pointing to the directory where FSapp is stored.
+use "bokeh serve --show main.py" from the command prompt pointing to the directory where FSapp is stored.
 
 The application provides various ways to compute MI, Normalised MI, Adjusted MI
 
